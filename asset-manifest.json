@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/floyd-website/static/js/main.2771eb59.js",
+    "main.css": "/floyd-website/static/css/main.09258692.css",
+    "main.js": "/floyd-website/static/js/main.e6d294bd.js",
     "index.html": "/floyd-website/index.html",
-    "main.2771eb59.js.map": "/floyd-website/static/js/main.2771eb59.js.map"
+    "main.09258692.css.map": "/floyd-website/static/css/main.09258692.css.map",
+    "main.e6d294bd.js.map": "/floyd-website/static/js/main.e6d294bd.js.map"
   },
   "entrypoints": [
-    "static/js/main.2771eb59.js"
+    "static/css/main.09258692.css",
+    "static/js/main.e6d294bd.js"
   ]
 }
